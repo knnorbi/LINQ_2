@@ -13,7 +13,7 @@ namespace LINQ_2
             Dolgozo[] dolgozok = Dolgozo.Betolt("bérek.txt");
             /*
              * Az alábbi feladatban egy cég dolgozói adatait kell elemezned.
-             * A dolgozó már be vannak töltve a 'dolgozok' tömbbe.
+             * A dolgozók már be vannak töltve a 'dolgozok' tömbbe.
              * Oldd meg a feladataokat LINQ-t felhasználval, ha lehetséges!
              * Az eredményeket írd ki a konzolra!
              */
@@ -42,7 +42,7 @@ namespace LINQ_2
 
             // 12. feladat: Kik keresnek átlag felett?
 
-            // 13. feladat: Mennyi átlag fizetés a beszerzési részlegen?
+            // 13. feladat: Mennyi az átlag fizetés a beszerzési részlegen?
 
             // 14. feladat: Csatlakozott-e lakatos a céghez 2000-ben vagy után?
 
